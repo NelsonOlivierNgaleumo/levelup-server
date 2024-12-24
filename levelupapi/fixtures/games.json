@@ -1,0 +1,26 @@
+[
+  {
+      "model": "levelupapi.game",
+      "pk": 1,
+      "fields": {
+          "game_type": 1,
+          "title": "Greatness",
+          "maker": "Nelson",
+          "gamer": 1,
+          "number_of_players": 5,
+          "skill_level": 5
+    }
+  },
+  {
+      "model": "levelupapi.game",
+      "pk": 2,
+      "fields": {
+          "game_type": 2,
+          "title": "Greatness",
+          "maker": "Nelson",
+          "gamer": 2,
+          "number_of_players": 10,
+          "skill_level": 10
+    }
+  }
+]
